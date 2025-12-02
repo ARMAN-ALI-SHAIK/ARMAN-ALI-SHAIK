@@ -24,8 +24,8 @@ CGPA: **7.1**
 
 ## 📫 Connect With Me
 📧 Email: **armanshaik1947@gmail.com**  
-🔗 Portfolio: **arman-portfolio-amber.vercel.app**  
-🔗 LinkedIn: **linkedin.com/in/arman-ali-shaik**
+🔗 Portfolio: **[arman-portfolio](https://arman-portfolio-amber.vercel.app/)**  
+🔗 LinkedIn: **[linkedin.com/in/arman-ali-shaik](https://www.linkedin.com/in/arman-ali-72b431253/)**
 
 ---
 
