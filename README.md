@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shaik Arman Ali 👋</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | Data Analyst</h3>
 
 I'm a Computer Science student at NIIT University with strong skills in **Full-Stack Development**, **Machine Learning/Deep Learning**, and **Cloud technologies**.  
 I enjoy building clean UIs, scalable backend systems, and AI-powered applications.
@@ -7,18 +7,18 @@ I enjoy building clean UIs, scalable backend systems, and AI-powered application
 ---
 
 ## 🔧 Skills
-**Languages:** Python, JavaScript, Java, SQL  
-**Frameworks:** React, Node.js, Express, Flask  
-**Databases:** MongoDB, MySQL  
-**AI/ML:** Scikit-learn, CNN, LSTM, XGBoost  
-**Tools:** Docker, Jenkins, Git, Postman  
-**Practices:** CI/CD, Agile, Testing, SDLC  
+- Full-Stack Development (React, Node.js, Express.js)
+- Python & JavaScript
+- Machine Learning (Scikit-learn, CNN, LSTM, XGBoost)
+- Databases (MongoDB, MySQL)
+- DevOps Tools (Docker, Jenkins, Git)
 
 ---
 
 ## 🎓 Education
-**B.Tech CSE (2022–2026)** — NIIT University  
-CGPA: **7.1**
+- **B.Tech (CSE)** — NIIT University, 2022–2026 (CGPA: 7.1)
+- **Intermediate (TSBIE)** — Sri Nalanda Jr College, 2020–2022 (95.5%)
+- **Secondary Schooling** — Telangana State Board
 
 ---
 
